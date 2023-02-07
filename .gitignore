@@ -1,0 +1,18 @@
+### personal ###
+src/
+result/
+tools/
+
+### IntelliJ project files ###
+.idea
+*.iml
+out
+gen
+
+### macOS template ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
